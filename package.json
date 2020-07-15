@@ -1,0 +1,25 @@
+{
+  "name": "portfolio-generator",
+  "version": "1.0.0",
+  "description": "for school",
+  "main": "app.js",
+  "scripts": {
+    "test": "node app Maximo Maximo100100"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Maximo100100/portfolio-generator.git"
+  },
+  "keywords": [
+    "school"
+  ],
+  "author": "Maximo",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Maximo100100/portfolio-generator/issues"
+  },
+  "homepage": "https://github.com/Maximo100100/portfolio-generator#readme",
+  "dependencies": {
+    "inquirer": "^7.3.2"
+  }
+}
